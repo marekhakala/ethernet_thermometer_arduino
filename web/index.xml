@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="et.xsl"?>
+<response>
+  <values count="3">
+    <value type="temperature" unit="celsius">24.52</value>
+    <value type="temperature" unit="fahreinheit">65.31</value>
+    <value type="humidity" unit="percentage">26.12</value>
+  </values>
+</response>
